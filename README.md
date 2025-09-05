@@ -1,4 +1,6 @@
 # NETFLIX HOME PAGE CLONE [FrontEnd]
+https://lab-dev-pranav.github.io/Netflix_Clone_fe
+
 
 A responsive Netflix India homepage clone built using HTML, CSS, and JavaScript. This project replicates the look and feel of the official Netflix landing page, including interactive FAQ, email validation, and adaptive layouts for all devices.
 
